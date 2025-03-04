@@ -17,6 +17,7 @@ Quatro números inteiros representando a hora de início e fim do jogo.
 Saída
 Mostre a seguinte mensagem: “O JOGO DUROU XXX HORA(S) E YYY MINUTO(S)” .
 
+
 Exemplo de Entrada	                  Exemplo de Saída
 7 8 9 10                             O JOGO DUROU 2 HORA(S) E 2 MINUTO(S)
 
